@@ -9,7 +9,7 @@ body {
 }
 
 @media ( orientation: landscape ) {
-  body { background: blue }
+  body { background: orange }
 }
 
 @media ( orientation: portrait ) {
