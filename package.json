@@ -1,8 +1,8 @@
 {
-  "name": "react-haushat-buch",
+  "homepage": "http://ciamac-da.github.io/react-haushalts-buch/",
+  "name": "react-haushalts-buch",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ciamac-da.github.io/ReactHaushaltBuch",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
