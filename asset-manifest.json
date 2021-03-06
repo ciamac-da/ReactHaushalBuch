@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-haushalts-buch/static/css/main.7e570606.chunk.css",
+    "main.js": "/react-haushalts-buch/static/js/main.eb01fa6f.chunk.js",
+    "main.js.map": "/react-haushalts-buch/static/js/main.eb01fa6f.chunk.js.map",
+    "runtime-main.js": "/react-haushalts-buch/static/js/runtime-main.1080a9ba.js",
+    "runtime-main.js.map": "/react-haushalts-buch/static/js/runtime-main.1080a9ba.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/react-haushalts-buch/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.80b9f89b.chunk.js": "/react-haushalts-buch/static/js/2.80b9f89b.chunk.js",
+    "static/js/2.80b9f89b.chunk.js.map": "/react-haushalts-buch/static/js/2.80b9f89b.chunk.js.map",
+    "index.html": "/react-haushalts-buch/index.html",
+    "precache-manifest.f968a41a8e79f25bc23bf81255ab2344.js": "/react-haushalts-buch/precache-manifest.f968a41a8e79f25bc23bf81255ab2344.js",
+    "service-worker.js": "/react-haushalts-buch/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/react-haushalts-buch/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.7e570606.chunk.css.map": "/react-haushalts-buch/static/css/main.7e570606.chunk.css.map",
+    "static/js/2.80b9f89b.chunk.js.LICENSE": "/react-haushalts-buch/static/js/2.80b9f89b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1080a9ba.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.80b9f89b.chunk.js",
+    "static/css/main.7e570606.chunk.css",
+    "static/js/main.eb01fa6f.chunk.js"
+  ]
+}
